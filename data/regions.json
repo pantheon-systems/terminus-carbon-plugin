@@ -1,4 +1,22 @@
 {
+    "africa-south1": {
+        "name": "asia-south1",
+        "location": "Johannesburg",
+        "summary": [
+            {
+                "cfe": "0.16",
+                "grid_carbon_intensity": "646",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.15",
+                "grid_carbon_intensity": "657",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
     "asia-east1": {
         "name": "asia-east1",
         "location": "Taiwan",
@@ -20,6 +38,24 @@
                 "grid_carbon_intensity": "456",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.18",
+                "grid_carbon_intensity": "453",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.17",
+                "grid_carbon_intensity": "456",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.17",
+                "grid_carbon_intensity": "439",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -44,6 +80,24 @@
                 "grid_carbon_intensity": "360",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.28",
+                "grid_carbon_intensity": "360",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.28",
+                "grid_carbon_intensity": "360",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.01",
+                "grid_carbon_intensity": "505",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -68,6 +122,24 @@
                 "grid_carbon_intensity": "464",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.16",
+                "grid_carbon_intensity": "463",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.16",
+                "grid_carbon_intensity": "459",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.17",
+                "grid_carbon_intensity": "453",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -92,6 +164,24 @@
                 "grid_carbon_intensity": "384",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.32",
+                "grid_carbon_intensity": "383",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.30",
+                "grid_carbon_intensity": "385",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.46",
+                "grid_carbon_intensity": "296",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -116,6 +206,24 @@
                 "grid_carbon_intensity": "425",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.31",
+                "grid_carbon_intensity": "425",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.35",
+                "grid_carbon_intensity": "378",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.37",
+                "grid_carbon_intensity": "357",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -140,6 +248,24 @@
                 "grid_carbon_intensity": "633",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.24",
+                "grid_carbon_intensity": "555",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.14",
+                "grid_carbon_intensity": "648",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.09",
+                "grid_carbon_intensity": "679",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -158,6 +284,24 @@
                 "grid_carbon_intensity": "633",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.23",
+                "grid_carbon_intensity": "632",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.29",
+                "grid_carbon_intensity": "529",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.29",
+                "grid_carbon_intensity": "532",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -182,6 +326,24 @@
                 "grid_carbon_intensity": "372",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.04",
+                "grid_carbon_intensity": "372",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.04",
+                "grid_carbon_intensity": "369",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.04",
+                "grid_carbon_intensity": "367",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -206,6 +368,24 @@
                 "grid_carbon_intensity": "580",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.13",
+                "grid_carbon_intensity": "580",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.13",
+                "grid_carbon_intensity": "580",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.18",
+                "grid_carbon_intensity": "561",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -230,6 +410,24 @@
                 "grid_carbon_intensity": "723",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.27",
+                "grid_carbon_intensity": "538",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.33",
+                "grid_carbon_intensity": "501",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.34",
+                "grid_carbon_intensity": "498",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -248,6 +446,24 @@
                 "grid_carbon_intensity": "746",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.34",
+                "grid_carbon_intensity": "490",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.40",
+                "grid_carbon_intensity": "456",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.39",
+                "grid_carbon_intensity": "454",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -266,6 +482,24 @@
                 "grid_carbon_intensity": "576",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.24",
+                "grid_carbon_intensity": "738",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.31",
+                "grid_carbon_intensity": "723",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.40",
+                "grid_carbon_intensity": "643",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -290,6 +524,24 @@
                 "grid_carbon_intensity": "127",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.97",
+                "grid_carbon_intensity": "112",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.98",
+                "grid_carbon_intensity": "46",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.98",
+                "grid_carbon_intensity": "39",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -302,6 +554,24 @@
                 "grid_carbon_intensity": "121",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.67",
+                "grid_carbon_intensity": "160",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.76",
+                "grid_carbon_intensity": "131",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.87",
+                "grid_carbon_intensity": "89",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -326,6 +596,24 @@
                 "grid_carbon_intensity": "110",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.80",
+                "grid_carbon_intensity": "123",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.82",
+                "grid_carbon_intensity": "122",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.84",
+                "grid_carbon_intensity": "103",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -350,6 +638,24 @@
                 "grid_carbon_intensity": "172",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.85",
+                "grid_carbon_intensity": "166",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.92",
+                "grid_carbon_intensity": "136",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.79",
+                "grid_carbon_intensity": "106",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -374,6 +680,24 @@
                 "grid_carbon_intensity": "269",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.96",
+                "grid_carbon_intensity": "413",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.90",
+                "grid_carbon_intensity": "345",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.68",
+                "grid_carbon_intensity": "276",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -398,6 +722,24 @@
                 "grid_carbon_intensity": "283",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.57",
+                "grid_carbon_intensity": "317",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.80",
+                "grid_carbon_intensity": "236",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.83",
+                "grid_carbon_intensity": "209",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -422,6 +764,24 @@
                 "grid_carbon_intensity": "86",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.85",
+                "grid_carbon_intensity": "118",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.92",
+                "grid_carbon_intensity": "59",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.98",
+                "grid_carbon_intensity": "15",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -434,6 +794,24 @@
                 "grid_carbon_intensity": "298",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.42",
+                "grid_carbon_intensity": "323",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.52",
+                "grid_carbon_intensity": "249",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.73",
+                "grid_carbon_intensity": "202",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -446,6 +824,126 @@
                 "grid_carbon_intensity": "59",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.87",
+                "grid_carbon_intensity": "71",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.94",
+                "grid_carbon_intensity": "34",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.96",
+                "grid_carbon_intensity": "16",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
+    "europe-west10": {
+        "name": "europe-west10",
+        "location": "Berlin",
+        "summary": [
+            {
+                "cfe": "0.90",
+                "grid_carbon_intensity": "345",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.68",
+                "grid_carbon_intensity": "276",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
+    "europe-west12": {
+        "name": "europe-west12",
+        "location": "Turin",
+        "summary": [
+            {
+                "cfe": "0.42",
+                "grid_carbon_intensity": "323",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.52",
+                "grid_carbon_intensity": "249",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.73",
+                "grid_carbon_intensity": "202",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
+    "me-central1": {
+        "name": "me-central1",
+        "location": "Doha",
+        "summary": [
+            {
+                "cfe": "0.0",
+                "grid_carbon_intensity": "575",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.01",
+                "grid_carbon_intensity": "366",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
+    "me-central2": {
+        "name": "me-central2",
+        "location": "Dammam",
+        "summary": [
+            {
+                "cfe": "0.0",
+                "grid_carbon_intensity": "569",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.01",
+                "grid_carbon_intensity": "382",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
+    "me-west1": {
+        "name": "me-west1",
+        "location": "Tel Aviv",
+        "summary": [
+            {
+                "cfe": "0.02",
+                "grid_carbon_intensity": "476",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.05",
+                "grid_carbon_intensity": "463",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.07",
+                "grid_carbon_intensity": "434",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -470,6 +968,24 @@
                 "grid_carbon_intensity": "142",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "1.00",
+                "grid_carbon_intensity": "0",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "1.0",
+                "grid_carbon_intensity": "2",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.99",
+                "grid_carbon_intensity": "5",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -482,6 +998,24 @@
                 "grid_carbon_intensity": "142",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.90",
+                "grid_carbon_intensity": "36",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.87",
+                "grid_carbon_intensity": "47",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.84",
+                "grid_carbon_intensity": "59",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -506,6 +1040,24 @@
                 "grid_carbon_intensity": "129",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.89",
+                "grid_carbon_intensity": "65",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.90",
+                "grid_carbon_intensity": "56",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.88",
+                "grid_carbon_intensity": "67",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -518,6 +1070,24 @@
                 "grid_carbon_intensity": "190",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.90",
+                "grid_carbon_intensity": "165",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.91",
+                "grid_carbon_intensity": "138",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.92",
+                "grid_carbon_intensity": "238",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -542,6 +1112,24 @@
                 "grid_carbon_intensity": "394",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.92",
+                "grid_carbon_intensity": "445",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.95",
+                "grid_carbon_intensity": "430",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.87",
+                "grid_carbon_intensity": "413",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -566,6 +1154,24 @@
                 "grid_carbon_intensity": "434",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.26",
+                "grid_carbon_intensity": "532",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.29",
+                "grid_carbon_intensity": "560",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.31",
+                "grid_carbon_intensity": "576",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -590,6 +1196,24 @@
                 "grid_carbon_intensity": "309",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.60",
+                "grid_carbon_intensity": "354",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.52",
+                "grid_carbon_intensity": "322",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.62",
+                "grid_carbon_intensity": "323",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -602,6 +1226,24 @@
                 "grid_carbon_intensity": "309",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.60",
+                "grid_carbon_intensity": "354",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.52",
+                "grid_carbon_intensity": "322",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.62",
+                "grid_carbon_intensity": "323",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -610,10 +1252,28 @@
         "location": "Dallas",
         "summary": [
             {
-                "cfe": "0.4",
+                "cfe": "0.40",
                 "grid_carbon_intensity": "296",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.41",
+                "grid_carbon_intensity": "342",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.79",
+                "grid_carbon_intensity": "321",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.94",
+                "grid_carbon_intensity": "303",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -638,6 +1298,24 @@
                 "grid_carbon_intensity": "60",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.89",
+                "grid_carbon_intensity": "67",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.84",
+                "grid_carbon_intensity": "94",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.87",
+                "grid_carbon_intensity": "79",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -662,6 +1340,24 @@
                 "grid_carbon_intensity": "190",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.56",
+                "grid_carbon_intensity": "202",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.55",
+                "grid_carbon_intensity": "198",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.63",
+                "grid_carbon_intensity": "169",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -686,6 +1382,24 @@
                 "grid_carbon_intensity": "448",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.31",
+                "grid_carbon_intensity": "606",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.29",
+                "grid_carbon_intensity": "588",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.33",
+                "grid_carbon_intensity": "555",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     },
@@ -710,6 +1424,72 @@
                 "grid_carbon_intensity": "365",
                 "net_operational_ghg_emissions": "0",
                 "year": "2021"
+            },
+            {
+                "cfe": "0.027",
+                "grid_carbon_intensity": "396",
+                "net_operational_ghg_emissions": "0",
+                "year": "2022"
+            },
+            {
+                "cfe": "0.26",
+                "grid_carbon_intensity": "373",
+                "net_operational_ghg_emissions": "0",
+                "year": "2023"
+            },
+            {
+                "cfe": "0.64",
+                "grid_carbon_intensity": "357",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
+    "europe-north2": {
+        "name": "europe-north2",
+        "location": "Stockholm",
+        "summary": [
+            {
+                "cfe": "1.00",
+                "grid_carbon_intensity": "3",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
+    "northamerica-south1": {
+        "name": "northamerica-south1",
+        "location": "Mexico",
+        "summary": [
+            {
+                "cfe": "0.19",
+                "grid_carbon_intensity": "305",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
+    "us-central2": {
+        "name": "us-central2",
+        "location": "Oklahoma",
+        "summary": [
+            {
+                "cfe": "0.88",
+                "grid_carbon_intensity": "372",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
+            }
+        ]
+    },
+    "us-east2": {
+        "name": "us-east2",
+        "location": "Georgia",
+        "summary": [
+            {
+                "cfe": "0.42",
+                "grid_carbon_intensity": "340",
+                "net_operational_ghg_emissions": "0",
+                "year": "2024"
             }
         ]
     }
