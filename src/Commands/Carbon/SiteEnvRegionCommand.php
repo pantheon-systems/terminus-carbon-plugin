@@ -63,7 +63,8 @@ class SiteEnvRegionCommand extends TerminusCommand implements SiteAwareInterface
         $this->requireSiteIsNotFrozen($site_env);
 
         $env = $this->getEnv($site_env);
-        $site = $this->getSite($site_env);
+
+        $site = $this->getSiteById($site_env);
 
         $region = new Regions();
         $site_data = $region->mergeRegionData($site);
