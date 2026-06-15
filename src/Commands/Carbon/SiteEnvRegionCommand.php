@@ -82,8 +82,7 @@ class SiteEnvRegionCommand extends TerminusCommand implements SiteAwareInterface
         foreach ($bindings->all() as $binding) {
             $binding_type = $binding->get('type');
             $binding_env = $binding->get('environment');
-            if (
-                $binding_env == $env->get('id')
+            if ($binding_env == $env->get('id')
                 && in_array($binding_type, $container_types)
             ) {
                 $type_count = !empty($carbonEnv->get($binding_type)) ? $carbonEnv->get($binding_type) : 0;
