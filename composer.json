@@ -13,11 +13,11 @@
     "phpunit/phpunit": "^9",
     "symfony/yaml": "^5",
     "squizlabs/php_codesniffer": "^3.6",
-    "pantheon-systems/terminus": "^2 || ^3"
+    "pantheon-systems/terminus": "^2 || ^3 || ^4"
   },
   "extra": {
     "terminus": {
-      "compatible-version": "^2 || ^3"
+      "compatible-version": "^2 || ^3 || ^4"
     }
   },
   "scripts": {
