@@ -27,3 +27,12 @@ On older versions of Terminus:
 mkdir -p ~/.terminus/plugins
 curl https://github.com/pantheon-systems/terminus-carbon-plugin/archive/main.tar.gz -L | tar -C ~/.terminus/plugins -xvz
 ```
+
+## Rollback
+
+- **When:** a released version of this plugin is broken for users or CI (for example `terminus carbon:info` fails after an update).
+- **Recover:** releases are fixed forward. Revert the bad change on `main` through a PR and tag the next patch release; never delete or move a published tag. Users who can't wait pin the previous version with Composer.
+- **Verify:** Packagist (`https://repo.packagist.org/p2/pantheon-systems/terminus-carbon-plugin.json`) lists the new patch first, and `terminus self:plugin:update` picks it up.
+- **Who to page:** `#ask-hosting` (owner: developer-experience). Nobody is paged automatically.
+
+Full procedure: [DEPLOYMENT.md](DEPLOYMENT.md#rollback).
